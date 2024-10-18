@@ -1,0 +1,11 @@
+###
+
+http://localhost:3737/Rohit?limit=10
+
+###
+POST http://localhost:3737/
+content-type: application/json
+{
+    "newFriend":"Rahul"
+}
+
